@@ -1,0 +1,16 @@
+user1
+
+{
+    "username": "rahul",
+    "email": "firedr4gon7@gmail.com",
+    "password": "rahulPass@123"
+}
+
+
+user2
+
+{
+    "username": "arpit_khanulia",
+    "email": "arpitkhanulia7@gmail.com",
+    "password": "arpitPass@123"
+}
